@@ -1,5 +1,3 @@
-# aigoxapp
-
 Building practical AI Agents that do real work—securely, reliably, and at scale.
 Welcome to aigoxapp’s GitHub home. We’re building an automation platform powered by AI Agents—specialized, goal-driven assistants that coordinate tasks, talk to tools and APIs, and deliver dependable results for everyday productivity and operations.
 
