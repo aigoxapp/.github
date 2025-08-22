@@ -1,21 +1,9 @@
-Welcome!
-Awesome—here’s a polished, copy-paste-ready GitHub welcome page (README) for your company/org aigoxapp with a strong focus on AI Agents. It’s designed for your org profile repo (.github/profile/README.md) or a top-level repo like aigoxapp/home.
-
-⸻
-
-aigoxapp
+# aigoxapp
 
 Building practical AI Agents that do real work—securely, reliably, and at scale.
-
- 
-
- 
-
- 
-
 Welcome to aigoxapp’s GitHub home. We’re building an automation platform powered by AI Agents—specialized, goal-driven assistants that coordinate tasks, talk to tools and APIs, and deliver dependable results for everyday productivity and operations.
 
-## ✨ What we’re building
+# ✨ What we’re building
 	•	Agent Core – a lightweight runtime for planning, tool-use, memory, and safe execution
 	•	Multi-Agent Orchestrator – assign roles (Planner, Researcher, Operator), route tasks, and synchronize outcomes
 	•	Integration Hub – connectors for calendars, email, docs, chats, CRMs, and internal APIs
@@ -24,12 +12,12 @@ Welcome to aigoxapp’s GitHub home. We’re building an automation platform pow
 
 Our north star: Agents that are useful on day one, and trustworthy for the long run.
 
-## 🧩 Why AI Agents (now)?
+# 🧩 Why AI Agents (now)?
 	•	Tool-use is finally dependable enough for real workflows
 	•	LLM reasoning is great—paired with deterministic adapters and human-in-the-loop where it matters
 	•	Organizations want automation without giving up privacy, auditability, or control
 
-## 📦 Repos (rolling out)
+# 📦 Repos (rolling out)
 	•	agent-core – core runtime & agent abstraction (public soon)
 	•	agent-recipes – production-ready templates & blueprints
 	•	integrations – connectors (Google, Microsoft 365, Slack, Notion, HubSpot, custom REST)
@@ -38,20 +26,20 @@ Our north star: Agents that are useful on day one, and trustworthy for the long 
 
 Looking for something specific? Open an issue and tag feature-request.
 
-## 🚀 Quick start (preview)
+# 🚀 Quick start (preview)
 
-# 1) Install (placeholder package while we publish)
+## 1) Install (placeholder package while we publish)
 pip install aigoxapp-agents  # or: npm i @aigoxapp/agents
 
-# 2) Create your first agent
+## 2) Create your first agent
 aigox init my-agent
 
-# 3) Run locally with a test tool
+## 3) Run locally with a test tool
 aigox run --tool calendar.list --goal "Plan a 30-min sync this week"
 
 Packages will be published under aigoxapp on PyPI and npm. Until then, this is a preview of developer ergonomics we aim for.
 
-## 🔐 Security & Privacy
+# 🔐 Security & Privacy
 	•	Least-privilege tokens and scoped tool permissions
 	•	Encrypted secrets & environment isolation
 	•	Human oversight options for sensitive actions (approve/deny)
@@ -59,7 +47,7 @@ Packages will be published under aigoxapp on PyPI and npm. Until then, this is a
 
 Security issues? Please email security@aigoxapp.com.
 
-## 🗺️ Roadmap (high level)
+# 🗺️ Roadmap (high level)
 	•	v0.1 – Agent Core alpha, local runners, OpenAI/Anthropic providers
 	•	v0.2 – Orchestrator beta, basic UI, first 10 integrations
 	•	v0.3 – Guardrails/Policies, memory stores, enterprise auth
@@ -67,7 +55,7 @@ Security issues? Please email security@aigoxapp.com.
 
 Track progress in our public Projects board (coming soon).
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 We love community energy!
 	1.	Check open Issues and Good First Issue labels
@@ -76,13 +64,13 @@ We love community energy!
 
 Please read our Code of Conduct and Contributing Guide (will live in each repo).
 
-## 📚 Resources
+# 📚 Resources
 	•	Product updates & docs: aigoxapp.com (coming online)
 	•	Dev previews: GitHub Releases & Discussions
 	•	Blog & examples: /agent-recipes repo
 	•	Support: support@aigoxapp.com
 
-## 📝 License
+# 📝 License
 
 Most SDKs and templates will be released under Apache-2.0 (or similar permissive license). Some components (e.g., hosted orchestrator) may have additional terms—details in each repo.
 
