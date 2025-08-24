@@ -1,3 +1,5 @@
+Most agent frameworks focus on experimentation. Aigoxapp is about production automation—stable, secure, and easy to drop into real workfl
+
 Building practical AI Agents that do real work—securely, reliably, and at scale.
 Welcome to aigoxapp’s GitHub home. We’re building an automation platform powered by AI Agents—specialized, goal-driven assistants that coordinate tasks, talk to tools and APIs, and deliver dependable results for everyday productivity and operations.
 
@@ -46,10 +48,11 @@ Packages will be published under aigoxapp on PyPI and npm. Until then, this is a
 Security issues? Please email security@aigoxapp.com.
 
 # 🗺️ Roadmap (high level)
-	•	v0.1 – Agent Core alpha, local runners, OpenAI/Anthropic providers
-	•	v0.2 – Orchestrator beta, basic UI, first 10 integrations
-	•	v0.3 – Guardrails/Policies, memory stores, enterprise auth
-	•	v1.0 – Stable SDKs, hosted & self-hosted options, production SLAs
+	•	v0.1 – Agent Core alpha, memory, safe tool execution
+	•	v0.2 – Orchestrator beta, roles & multi-agent routing
+	•	v0.3 – 10+ integrations (Google/M365, Slack, Notion, HubSpot), observability dashboards
+	•	v0.4 – Guardrails/policies, enterprise auth (SSO, RBAC), secrets manager
+	•	v1.0 – Stable SDKs (Python/Node), hosted & self-hosted, production SLAs
 
 Track progress in our public Projects board (coming soon).
 
