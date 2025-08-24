@@ -52,6 +52,10 @@ Security issues? Please email security@aigoxapp.com.
 	•	v0.2 – Orchestrator beta, roles & multi-agent routing
 	•	v0.3 – 10+ integrations (Google/M365, Slack, Notion, HubSpot), observability dashboards
 	•	v0.4 – Guardrails/policies, enterprise auth (SSO, RBAC), secrets manager
+	•	v0.5 → New modalities: vision agents, voice-enabled meeting concierge
+	•	v0.6 → New deployment: edge/local runners (privacy-first), serverless workers
+	•	v0.7 → New intelligence: retrieval-augmented reasoning, tool selection policies
+	•	v0.8 → Hardened SDK + ecosystem integrations
 	•	v1.0 – Stable SDKs (Python/Node), hosted & self-hosted, production SLAs
 
 Track progress in our public Projects board (coming soon).
